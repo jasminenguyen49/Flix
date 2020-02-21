@@ -20,9 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/zxSnWYfWyT.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I have encountered several problems when I worked on BONUS. For example, I was able to run my app on a real device. Flix icon and launch icon worked, Flix's functions did not work due to Threads, which I do not know how to solve it yet.  
